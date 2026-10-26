@@ -8,4 +8,7 @@ PAN_DZ
 |-- README.md
 |-- Seminar2
     |-- task1.cpp–task10.cpp
+|-- Seminar3
+    |-- task1.cpp–task10.cpp
+    |-- extra1.cpp-extra5.cpp
 ```
